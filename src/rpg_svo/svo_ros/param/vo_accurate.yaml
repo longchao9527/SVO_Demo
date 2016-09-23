@@ -1,0 +1,14 @@
+grid_size: 10
+max_n_kfs: 500
+loba_num_iter: 10
+max_fts: 4000
+min_fts: 20
+n_pyr_levels: 4
+klt_max_level: 5
+klt_min_level: 3
+reproj_thresh: 4
+quality_max_drop_fts: 2000
+init_min_disparity: 10
+kfselect_mindist: 0.02
+init_min_tracked: 20
+core_n_kfs: 20

@@ -1,0 +1,38 @@
+# cam_model: Pinhole
+# cam_width: 752
+# cam_height: 480
+# cam_fx: 414.536145
+# cam_fy: 414.284429
+# cam_cx: 348.804988
+# cam_cy: 240.076451
+# cam_d0: -0.283076
+# cam_d1: 0.066674
+# cam_d2: 0.000896
+# cam_d3: 0.000778
+
+# cam_model: Pinhole
+# cam_width: 752
+# cam_height: 480
+# cam_fx: 315.5
+# cam_fy: 315.5
+# cam_cx: 376.0
+# cam_cy: 240.0
+
+cam_model: Pinhole
+cam_width: 640
+cam_height: 480
+cam_fx: 525.0
+cam_fy: 525.0
+cam_cx: 320.0
+cam_cy: 240.0
+
+# cam_model: Pinhole
+# cam_width: 640
+# cam_height: 480
+# cam_fx: 250.922904352041
+# cam_fy: 251.322098901414
+# cam_cx: 321.810501791181
+# cam_cy: 243.270430394982
+# cam_d0: 0.0772297246015661
+# cam_d1: -0.0425105386166484
+
